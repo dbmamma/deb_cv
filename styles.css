@@ -1,0 +1,22 @@
+body{
+  background-color: bisque;
+}
+p{
+  font-family: arial;
+}
+h1{
+  color:#FD5D5D;
+}
+h3{
+  color:#FD5D5D;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: white;
+  border-width: 5px;
+  width:5%;
+}
+img{
+  height: 300px;
+}
